@@ -1,0 +1,4 @@
+{
+  "src/**/*.{ts,tsx}": ["eslint --max-warnings=0", "prettier -w"],
+  "src/**/*.{json,css,md}": ["prettier -w"]
+}
